@@ -2,6 +2,7 @@
 {
   "blacklist": [
     "acapolkadot.js.org",
-    "malicioussite.net"
+    "airdop-walletconnect.pages.dev"
+    
   ]
 }
