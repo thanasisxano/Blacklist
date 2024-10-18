@@ -2,7 +2,8 @@
 {
   "blacklist": [
     "acapolkadot.js.org",
-    "acapolkadot.js.org"
-    "youtube.com"
+    "acapolkadot.js.org",
+    "youtube.com",
+    "facebook.com",
   ]
 }
