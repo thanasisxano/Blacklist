@@ -1,6 +1,4 @@
-
-{
-  "blacklist": [
+[
   "07e96d43-381a-46a3-9c16-6daf97213efc.co",
   "09sync00.duckdns.org",
   "09sync1n0-duckdnrs.org",
@@ -37824,7 +37822,6 @@
   "zulunetwork-io.pages.dev",
   "zwalletconnect.com",
   "zxcoin.website",
-  "zzcoin.website"
+  "zzcoin.website",
     
-  ]
-}
+]
